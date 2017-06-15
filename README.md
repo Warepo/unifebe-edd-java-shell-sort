@@ -1,1 +1,3 @@
-# unifebe-edd-java-shell-sort
+# Shell Sort - Java
+## Estrutura de Dados
+### UNIFEBE
