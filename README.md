@@ -1,4 +1,19 @@
 # Shell Sort - Java
 ## Estrutura de Dados
 ### UNIFEBE
-- [ ] teste de check list
+
+#### Apresentação / O que tem que ter no power point
+
+- [ ] Introdução sobre listas, HASH, Ordenação;
+- [ ] Gifs Esplicativos ou videos do yotube;
+- [ ] O que é Shel Sort ?;
+- [ ] Para que se usa Shel Sort ?;
+- [ ] Esplicação da Lógica (passo a passo);
+- [ ] Vantegem e Desvantagem de uso;
+
+
+##### Aplicação em java
+
+- [ ] Implementação de uma Shel em JAVA;
+- [ ] Tentar Fazer ilustrativa com System.out.print de cada parte para bom entendimento;
+- [ ] Código limpo, sem abreviações, funções com nomes simples, entendivel por todos (Luiz sem inglês temos mesmo que entender, podemos ter que acabar mostrando na apresentação);
