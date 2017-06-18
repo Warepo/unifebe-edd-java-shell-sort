@@ -4,10 +4,9 @@
 
 #### Apresentação / O que tem que ter no power point
 
-- [ ] Introdução sobre listas, HASH, Ordenação;
+- [X] Introdução sobre listas, HASH, Ordenação;
 - [ ] Gifs Esplicativos ou videos do yotube;
-- [ ] O que é Shel Sort ?;
-- [ ] Para que se usa Shel Sort ?;
+- [X] O que é Shel Sort ?;
 - [ ] Esplicação da Lógica (passo a passo);
 - [ ] Vantegem e Desvantagem de uso;
 
