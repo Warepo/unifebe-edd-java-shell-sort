@@ -7,12 +7,12 @@
 - [X] Introdução sobre listas, HASH, Ordenação;
 - [X] Gifs Esplicativos ou videos do yotube;
 - [X] O que é Shel Sort ?;
-- [ ] Esplicação da Lógica (passo a passo);
-- [ ] Vantegem e Desvantagem de uso;
+- [X] Esplicação da Lógica (passo a passo);
+- [X] Vantegem e Desvantagem de uso;
 
 
 ##### Aplicação em java
 
-- [ ] Implementação de uma Shel em JAVA;
-- [ ] Tentar Fazer ilustrativa com System.out.print de cada parte para bom entendimento;
-- [ ] Código limpo, sem abreviações, funções com nomes simples, entendivel por todos (Luiz sem inglês temos mesmo que entender, podemos ter que acabar mostrando na apresentação);
+- [X] Implementação de uma Shel em JAVA;
+- [X] Tentar Fazer ilustrativa com System.out.print de cada parte para bom entendimento;
+- [X] Código limpo, sem abreviações, funções com nomes simples, entendivel por todos (Luiz sem inglês temos mesmo que entender, podemos ter que acabar mostrando na apresentação);
